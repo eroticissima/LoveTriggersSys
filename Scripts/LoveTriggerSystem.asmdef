@@ -1,0 +1,28 @@
+{
+    "name": "LoveTriggerSystem",
+    "rootNamespace": "LTSystem",
+    "references": [
+        "Unity.TextMeshPro",
+        "Cinemachine",
+        "Unity.Timeline",
+        "Unity.InputSystem",
+        "Fusion.Unity",
+        "RootMotionEditor",
+        "RootMotion",
+        "Unity.XR.CoreUtils.Editor",
+        "Unity.XR.OpenXR",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "Unity.RenderPipelines.HighDefinition.Config.Runtime",
+        "Unity.RenderPipelines.HighDefinition.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
