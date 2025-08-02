@@ -145,7 +145,7 @@ public class UniversalAnimationController : MonoBehaviour
         }
     }
 
-    void ConfigureForPlatform(PlatformType platform)
+    public void ConfigureForPlatform(PlatformType platform)
     {
         currentPlatform = platform;
         isVRMode = (platform != PlatformType.Desktop && platform != PlatformType.Mobile && platform != PlatformType.Console);
