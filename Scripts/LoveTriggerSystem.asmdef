@@ -11,6 +11,8 @@
         "RootMotion",
         "Unity.XR.CoreUtils.Editor",
         "Unity.XR.OpenXR",
+        "Unity.XR.Management",
+        "Unity.XR.Interaction.Toolkit",
         "Unity.RenderPipelines.Core.Runtime",
         "Unity.RenderPipelines.HighDefinition.Runtime",
         "Unity.RenderPipelines.HighDefinition.Config.Runtime",
